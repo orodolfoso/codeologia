@@ -135,7 +135,22 @@
     display: inline-block;
     padding: 20px;
     text-align: center;
+    width: 450px;
     
+}
+
+.card-info h2 {
+    color: #010440;
+    p {
+        color: #010440;
+    }
+    
+}
+
+.card-info a {
+    text-decoration: none;
+    color: #010440;
+    font-weight: bold;
 }
 
 
