@@ -1,1 +1,2 @@
-<a href="https://orodolfoso.github.io/codeologia/">Acesse</a>
+Acesse o site
+<a href="https://orodolfoso.github.io/codeologia/">Acessar</a>
