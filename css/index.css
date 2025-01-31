@@ -235,6 +235,64 @@
     color: #21da1b;
 }
 
+.header-mobile {
+    display: none;
+}
+
+@media screen and (max-width: 730px) {
+    .container {
+        display: none;
+    }
+
+    .header-mobile, .nav-links a {
+        background-color: #010440;
+        width: 100%;
+        display: inline-block;
+        padding: 1.5rem;
+        
+    }
+
+    .header-mobile img {
+        width: 150px;
+        position: relative;
+        left: 35%;
+    }
+
+    .content {
+        width: 100%;
+    }
+
+    .card {
+        display: inline-block;
+        width: 100%;
+    }
+
+    .footer-info {
+        display: inline-block;
+        width: 100%;
+    }
+
+    .newsletter h3 {
+        position: relative;
+        left: 10%;
+        font-size: 25px;
+    }
+
+    .newsletter input {
+        position: relative;
+        width: 200px;
+        padding: 20px;
+        margin-bottom: 10px;
+        left: 20%;
+    }
+
+    .newsletter button {
+        width: 50px;
+        height: 50px;
+    }
+    
+}
+
 
 
 
